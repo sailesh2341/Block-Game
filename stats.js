@@ -1,3 +1,4 @@
+// DOM MANIPULATION
 var Stats = function(){
     function s(a,g,d){
         var f,c,e;
